@@ -40,3 +40,4 @@ my visual studio code settings
  - html 코드에 적용된 CSS가 어디 위치해있는지 한 번에 찾아가게 해주는 확장 플러그인.
 
 ## Html CSS Support
+ - css 힌트를 표시해주는 확장 플러그인.
