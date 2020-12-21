@@ -41,3 +41,9 @@ my visual studio code settings
 
 ## Html CSS Support
  - css 힌트를 표시해주는 확장 플러그인.
+ 
+## Active File In StatusBar
+ - vscode 하단에 현재 창의 위치를 표시해주는 확장 플러그인.
+ 
+## Auto Import - ES6, TS, JSX, TSX
+ - 스크립트 작성시 최상단에 자동으로 import 코드를 작성해주는 확장 플러그인.
