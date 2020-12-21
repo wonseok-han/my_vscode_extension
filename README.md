@@ -30,8 +30,11 @@ my visual studio code settings
 ## Material Icon Theme
  - VisualStudoCode의 Explorer에서 확장자에 따른 파일의 Icon을 적용해주는 확장 플러그인.
 
-## Prettier
- - JavaScript를 작성할 때 코드를 정렬 후 저장할 수 있게 해주는 확장 플러그인.
+## Prettier - Code formatter
+ - JavaScript를 작성할 때 코드를 정렬 후 저장할 수 있게 해주는 확장 플러그인
+ 
+## Settings Sync
+ - 사용하는 확장들을 설정 파일 형태로 GitHub gist 에 업로드하고, 필요할 때 다운로드하여 환경을 동기화시켜 사용하는 확장 플러그인(settings.json 파일 동기화 가능)
 
 ## indent-rainbow
  - 코드를 작성하면서 들여쓰기를 할 때 들여쓰기의 단계별로 색을 적용해 구분하기 쉽게 도와주는 확장 플러그인.
@@ -47,3 +50,6 @@ my visual studio code settings
  
 ## Auto Import - ES6, TS, JSX, TSX
  - 스크립트 작성시 최상단에 자동으로 import 코드를 작성해주는 확장 플러그인.
+
+## Bracket Pair Colorizer
+ - Block의 여는 괄호와 닫는 괄호의 색을 표시하여 구분하기 쉽게 도와주는 확장 플러그인.
